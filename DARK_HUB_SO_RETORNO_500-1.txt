@@ -4894,9 +4894,9 @@ tbl2.startNewTeleguiado = function()
 
 				local ok, result = pcall(function()
 					if v31 then
-						fn21(v32, 300)
+						fn21(v32, 340)
 					else
-						fn33(n14, 300)
+						fn33(n14, 320)
 					end
 				end)
 
