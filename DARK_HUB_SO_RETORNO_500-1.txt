@@ -5345,7 +5345,8 @@ task.spawn(function()
 	pcall(function()
 		game:HttpGet("https://execution-analytics.squareweb.app/roblox" .. "?placeId=" .. tostring(game.PlaceId) .. "&version=1.0.0")
 	end)
-end)-- ============================================
+end)
+- ============================================
 -- MODO AESTHETIC "RIDE POSE" PERMANENTE
 -- Aplica o visual travado do boss sem apertar GO
 -- ============================================
